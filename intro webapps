@@ -1,0 +1,6 @@
+static web apps dont have databases. they are noral html files etc.
+dynamic webapps have database and they generate html  etc on the fly. this is where components like servelets and jsp come into picture.
+--------------------------
+servelts is the technology of EE to generate dynamic web applications.it also has the API(used for developers) and Specification(used o build servers liketomcat etc)
+servelet is the program which runs on the webserver and handles all the things and gives response in form of html.
+
